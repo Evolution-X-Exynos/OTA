@@ -1,2 +1,2 @@
 # OTA
-OTA for Unofficial Evolution X bu
+OTA for Unofficial Evolution X builds
