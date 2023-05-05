@@ -1,17 +1,17 @@
 {
-    "datetime": 1678279327,
+    "datetime": 1683292397,
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "682de8b6dbb8839c32310b962498890b",
-    "filename": "evolution_gracerlte-ota-tq1a.230205.002-03081242-community-unsigned.zip",
+    "filehash": "423b57597349ecc590e923d40c511baf",
+    "filename": "evolution_gracerlte-ota-tq2a.230505.002-05051413-community-unsigned.zip",
     "forum_url": "https://forum.xda-developers.com/t/rom-13-encryption-evolution-x-7-x-for-samsung-galaxy-s10e-s10-s10-s10-5g.4531403/",
-    "id": "8fea6de2b6da3451b507d5b39f090472b3ccdb52556c3757cea8a73407c23e30",
+    "id": "f174a7542d785d7e8afe1a19713e2502fbe9daa77c7b218c5163108d5262578f",
     "maintainer": "ExpressLuke",
     "maintainer_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
     "news_url": "https://t.me/EvolutionXOfficial",
-    "size": "1618181169",
+    "size": "1682412707",
     "telegram_username": "expressluke",
-    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_gracerlte-ota-tq1a.230205.002-03081242-community-unsigned.zip/evolution_gracerlte-ota-tq1a.230205.002-03081242-community-unsigned.zip",
+    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_gracerlte-ota-tq2a.230505.002-05051413-community-unsigned.zip/evolution_gracerlte-ota-tq2a.230505.002-05051413-community-unsigned.zip",
     "version": "Thirteen",
     "website_url": "https://evolution-x.org"
 }
