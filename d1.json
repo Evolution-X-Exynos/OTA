@@ -1,17 +1,17 @@
 {
-    "datetime": 1695487247,
+    "datetime": 1695555295,
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "3aba9d569b45c0981389f1d05a45c265",
-    "filename": "evolution_d1-ota-tq3c.230901.001.b1-09231741-community-unsigned.zip",
+    "filehash": "0e2d307f5872a3a71c3757f78c0e0f52",
+    "filename": "evolution_d1-ota-tq3c.230901.001.b1-09241236-community-unsigned.zip",
     "forum_url": "https://forum.xda-developers.com/t/rom-13-encryption-evolution-x-7-x-for-samsung-galaxy-s10e-s10-s10-s10-5g.4531403/",
-    "id": "dc42b810b168e621fc6882ab2964dde7c4bab670e16b1cd2549daadd64ef2791",
+    "id": "cd54d6bf430efa19cf928066d8f3930a0fdde7748523e489f634596150a252cd",
     "maintainer": "ExpressLuke",
     "maintainer_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
     "news_url": "https://t.me/EvolutionXOfficial",
-    "size": "1887795616",
+    "size": "1891983903",
     "telegram_username": "expressluke",
-    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_d1-ota-tq3c.230901.001.b1-09231741-community-unsigned.zip/evolution_d1-ota-tq3c.230901.001.b1-09231741-community-unsigned.zip",
+    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_d1-ota-tq3c.230901.001.b1-09241236-community-unsigned.zip/evolution_d1-ota-tq3c.230901.001.b1-09241236-community-unsigned.zip",
     "version": "Thirteen",
     "website_url": "https://evolution-x.org"
 }
