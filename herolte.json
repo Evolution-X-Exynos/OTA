@@ -1,17 +1,17 @@
 {
-    "datetime": 1696722718,
+    "datetime": 1696828683,
     "donate_url": "https://paypal.me/lukew594",
     "error": false,
-    "filehash": "199a2cdf7ff4021d0568ba61976153e7",
-    "filename": "evolution_herolte-ota-tq3c.230901.001.b1-10080052-community-unsigned.zip",
+    "filehash": "096b8fc72c7faf9f315b10344acf08fa",
+    "filename": "evolution_herolte-ota-tq3c.230901.001.b1-10090619-community-unsigned.zip",
     "forum_url": "https://forum.xda-developers.com/t/rom-13-encryption-evolution-x-7-x-for-samsung-galaxy-s10e-s10-s10-s10-5g.4531403/",
-    "id": "941034a414e17a291f9c07b21a0578211192f5e2c858bf21632ecff3bbf2b947",
+    "id": "7f67dbfd39f32c3db29a82c4087a327ac9f275deb598aa4638227535497138c6",
     "maintainer": "ExpressLuke",
     "maintainer_url": "https://forum.xda-developers.com/m/expressluke.7166349/",
     "news_url": "https://t.me/EvolutionXOfficial",
-    "size": "1734613898",
+    "size": "1734628001",
     "telegram_username": "expressluke",
-    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_herolte-ota-tq3c.230901.001.b1-10080052-community-unsigned.zip/evolution_herolte-ota-tq3c.230901.001.b1-10080052-community-unsigned.zip",
+    "url": "https://github.com/Evolution-X-Exynos/OTA/releases/download/evolution_herolte-ota-tq3c.230901.001.b1-10090619-community-unsigned.zip/evolution_herolte-ota-tq3c.230901.001.b1-10090619-community-unsigned.zip",
     "version": "Thirteen",
     "website_url": "https://evolution-x.org"
 }
